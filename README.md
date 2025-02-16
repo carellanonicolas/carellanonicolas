@@ -1,13 +1,32 @@
-<h1>Hi, I'm Christopher! I am currently trying to make my way into being an <a href="https://www.linkedin.com/in/carellanonicolas">IT Professional</a>💻</h1>
+# 👋 Hi, I'm Christopher! 
+## Aspiring IT Professional 💻
 
-<h2>Here's a few of the projects I've done:</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carellanonicolas) 
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/carellanonicolas)
 
-- <b>Microsoft Azure</b>
-  - [Deploying Virtual Machines with Azure](https://github.com/carellanonicolas/vm-azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carellanonicolas/activedirectory-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carellanonicolas/azure-network-protocols)
- 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/carellanonicolas/prereqs-osTicket)
-  - [osTicket: Post-Installation Configuration](https://github.com/carellanonicolas/postinstall-osTicket)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/carellanonicolas/tickets-osTicket)
+Welcome to my GitHub! I'm passionate about IT infrastructure, cloud computing, and help desk support. Here are some of the projects I've worked on:
+
+---
+
+## 🚀 Projects & Labs
+
+### 🔷 Microsoft Azure 
+- 🌐 [Deploying Virtual Machines with Azure](https://github.com/carellanonicolas/vm-azure)  
+- 🏢 [Configuring On-Premises Active Directory within Azure VMs](https://github.com/carellanonicolas/activedirectory-config)  
+- 🔒 [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carellanonicolas/azure-network-protocols)  
+
+---
+
+### 🎫 osTicket (Help Desk Ticketing System) 
+- 🛠️ [osTicket: Prerequisites and Installation](https://github.com/carellanonicolas/prereqs-osTicket)  
+- ⚙️ [osTicket: Post-Installation Configuration](https://github.com/carellanonicolas/postinstall-osTicket)  
+- 📩 [osTicket: Ticket Lifecycle Examples](https://github.com/carellanonicolas/tickets-osTicket)  
+
+---
+
+## 📫 Let's Connect!
+💡 I'm always eager to learn new technologies and collaborate on IT-related projects. Feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/carellanonicolas)**!
+
+---
+
+
