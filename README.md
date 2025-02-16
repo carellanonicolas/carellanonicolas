@@ -3,6 +3,7 @@
 <h2>Here's a few of the projects I've done:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Deploying Virtual Machines with Azure](https://github.com/carellanonicolas/vm-azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carellanonicolas/activedirectory-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carellanonicolas/azure-network-protocols)
  
