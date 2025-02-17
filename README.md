@@ -28,5 +28,10 @@ Welcome to my GitHub! I'm passionate about IT infrastructure, cloud computing, a
 💡 I'm always eager to learn new technologies and collaborate on IT-related projects. Feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/carellanonicolas)**!
 
 ---
-
+## 📄 Certifications 
+- [CompTIA A+](https://drive.google.com/file/d/1YS4nWuNFER2BujeHQo1buvL0OOAqbEKk/view)
+- [CompTIA Network+](https://drive.google.com/file/d/1MEce1NGLSKEdCIIIFfPmfJZeoa-85ay5/view)
+- [CompTIA Security+](https://drive.google.com/file/d/13Bn6Gn6Qj6zeDlyBuATFVZ5128DQ2lv3/view)
+- [Amazon Web Services Cloud Practicioner](https://drive.google.com/file/d/1NBThAq3_klPlH5eX3gWjOXHKN97bUxql/view)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/DSGTHFRVU5J5)
 
