@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Christopher! 
-## Aspiring IT Professional 💻
+## An IT Support Specialist 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carellanonicolas) 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/carellanonicolas)
